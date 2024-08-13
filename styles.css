@@ -25,3 +25,6 @@ td{
     border: 1px ridge rgb(246, 214, 203);
     text-align: justify;
     }
+footer{
+    font-style: italic;
+}
