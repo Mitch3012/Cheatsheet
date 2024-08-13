@@ -1,0 +1,27 @@
+body {background-color: silver;
+     }
+h1{
+    background-image:url(OIP.jpg);
+    text-align: center;
+    font-family:"Space Mono";
+    color: lightblue;
+    }
+h2{
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    margin: auto;
+}
+th{
+    background-color: darkslategray;
+    color: cornsilk;
+    border: 2px solid lightgrey;
+}
+
+td{
+    background-color: floralwhite;
+    border: 1px ridge rgb(246, 214, 203);
+    text-align: justify;
+    }
